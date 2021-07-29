@@ -13,13 +13,13 @@
 **[게임링크](http://g.regogame.com/game/48/)**
 
 ## 2. 필요한 이미지 구하기
-이미지1)  
+**이미지1**  
 게임화면의 좌표를 구하기 위한 시작화면   
-<img width="180" alt="스크린샷 2021-07-29 오후 8 27 37" src="https://user-images.githubusercontent.com/57162448/127484535-d9349a4f-669c-4f34-a307-03d55cc9390c.png">  
-위 시작화면에서 필요한 부분은 두더지가 나오는 영역이다.  
-<img width="300" alt="ground" src="https://user-images.githubusercontent.com/57162448/127487281-5f31a44e-67df-426c-8678-e3dbd486aca0.png">
+<img width="180" alt="스크린샷 2021-07-29 오후 8 27 37" src="https://user-images.githubusercontent.com/57162448/127484535-d9349a4f-669c-4f34-a307-03d55cc9390c.png">
+<img width="300" alt="ground" src="https://user-images.githubusercontent.com/57162448/127487281-5f31a44e-67df-426c-8678-e3dbd486aca0.png">  
+왼쪽의 이미지가 실제 게임화면이지만 프로그램이 실행될때 필요한 부분은 두더지가 나오는 일부영역이다.  
 
-이미지2)
+**이미지2**  
 두더지를 인식하기 위해 필요한 두더지 이미지  
 실제 게임에서 등장하는 두더지는 아래 사진과 같지만  
 <img width="80" src="http://g.regogame.com/game/48/res/game/diglett1.png">  
