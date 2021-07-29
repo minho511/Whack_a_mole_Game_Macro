@@ -100,6 +100,7 @@ print("게임종료")
 ```
 
 ## 결과  
+게임 플레이 영상  
 [![결과 영상](http://i.ytimg.com/vi/ENhrzijk5d4/0.jpg)](https://youtu.be/ENhrzijk5d4)
 
 ## 문제점
