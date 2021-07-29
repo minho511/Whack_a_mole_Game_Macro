@@ -100,8 +100,7 @@ print("게임종료")
 ```
 
 ## 결과  
-  
-<iframe width="640" height="360" src="https://youtu.be/ENhrzijk5d4" frameborder="0" gesture="media" allowfullscreen=""></iframe>  
+[![결과 영상](http://i.ytimg.com/vi/ENhrzijk5d4/0.jpg)](https://youtu.be/ENhrzijk5d4)
 
 ## 문제점
 - 선택한 게임이 다른곳을 눌렀을 때 감점되는 방식이 아니어서 단순하게 만들 수 있었지만 감점이 있는 게임이라면 추가적인 논리가 필요하다.
